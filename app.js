@@ -1,15 +1,4 @@
-// practice 1
 
-// var username = prompt("username");
-// var password = prompt("password");
-
-// if(username === "Ameer Moavia" && password === "12345"){
-//     alert("welcome back!");
-// } else{
-//     alert("Access denied");
-// }
-
-// practice 2
 
 var marks = prompt("Type your marks");
 
